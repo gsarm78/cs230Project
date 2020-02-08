@@ -1,0 +1,9 @@
+numpy
+pandas
+Pillow
+glob3
+scipy
+matplotlib
+tensorflow
+tensorflow-gpu
+
