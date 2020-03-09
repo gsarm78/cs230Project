@@ -1,6 +1,6 @@
-# cs230Project
- CS230 Deep Learning course group project
-
- Nowcasting Precipitation based on radar images.
+# Stanford CS230 Project (Winter2020)
+## Precipitation Nowcasting using Deep Learning techniques
+ 
+ Project is attempting to nowcast precipitation based on radar images, using DL techniques.
 
  Please run the "nowcastingmodel.ipynb" using Google Colab
