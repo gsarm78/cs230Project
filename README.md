@@ -6,6 +6,8 @@
  Please run the "nowcastingmodel.ipynb" using Google Colab
  
  Predictions animation:
-<img src="https://github.com/gsarm78/cs230Project/blob/master/image.gif" width="250"/>
+ 
+ 
+<img src="https://github.com/gsarm78/cs230Project/blob/master/image.gif" width="500"/>
  
  
