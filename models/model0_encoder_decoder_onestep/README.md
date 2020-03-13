@@ -23,4 +23,4 @@ To run endoder-decoder network for multistep prediction:
 python convlstm.py
 ```
 
-By default, pre-trained models are loaded from the `restore` folder. Example outputs are stored in the `images` folder
+By default, pre-trained models are loaded from the `restore` folder. Example outputs are stored in this folder

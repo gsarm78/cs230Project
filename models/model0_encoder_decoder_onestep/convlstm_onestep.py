@@ -135,7 +135,7 @@ def run():
             # and green is the one-step-ahead prediction
             #visualization.animate_anaglyph_comparison(input_batch[:, 0, :, :], batch_predictions[:, 0, :, :], axes)
             #visualization.save_animation(input_batch[:, 0, :, :], batch_predictions[:, 0, :, :])
-	    # plot predictions and compare to ground truth
+            # plot predictions and compare to ground truth
             for j in range(18):
              fig = plt.figure(figsize=(10,5))
              axes = fig.add_subplot(121)
@@ -144,7 +144,6 @@ def run():
              axes = fig.add_subplot(122)
              axes.text(1,3,'Ground truth',fontsize = 20, color = 'y')
              plt.imshow(input_batch[j+1,0,:,:], cmap = 'binary')
-             plt.show()
              name = str(j) + "_image.png"
              plt.savefig(name)
 
