@@ -1,0 +1,6 @@
+model_checkpoint_path: "full"
+all_model_checkpoint_paths: "../it_34650/full"
+all_model_checkpoint_paths: "../it_34700/full"
+all_model_checkpoint_paths: "../it_34750/full"
+all_model_checkpoint_paths: "../it_34800/full"
+all_model_checkpoint_paths: "full"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "encoder"
+all_model_checkpoint_paths: "../it_13400/encoder"
+all_model_checkpoint_paths: "../it_13450/encoder"
+all_model_checkpoint_paths: "../it_13500/encoder"
+all_model_checkpoint_paths: "../it_13550/encoder"
+all_model_checkpoint_paths: "encoder"
