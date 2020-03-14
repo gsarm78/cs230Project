@@ -1,4 +1,4 @@
-# EXPERIEMENTAL UNET MODEL
+# EXPERIMENTAL UNET MODEL
 from keras.models import *
 from keras.layers import *
 input_shape=(image_height, image_width, 1)
