@@ -7,7 +7,7 @@
  It receive an input sequence of N images and predicts a sequence of M images.
  (Notice: in the notebook, N = M = 8 images).
  
- Please run the "nowcastingmodel.ipynb" using Google Colab
+ Please run the "precipitationnowcasting.ipynb" using Google Colab
  
  Predictions animation:
  
